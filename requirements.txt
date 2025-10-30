@@ -8,4 +8,4 @@ matplotlib
 xgboost
 fastapi
 pydantic
-imblearn
+imbalanced-learn
